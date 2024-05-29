@@ -18,3 +18,4 @@ This branch uses the newer redux syntax of slices, and adds a favorite meal to g
 - Fork the repo to your own GitHub account
 - Clone the repo
 - Navigate between branches with the `git checkout` command. To see what branch you are on run `git branch` and your current branch should be highlited. If you are on the `main` branch and want to see the example of a basic reducer, run `git checkout basic-reducer` and you will be switched to that branch. Likewise to see the example of slices you would run `git checkout slices`. # redux-colors-codealong
+# redux-colors-codealong
